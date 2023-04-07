@@ -3,11 +3,8 @@
   "embeds": [
     {
       "title": "Nova-life Discord-log",
-      "description": "chargé ✅",
-      "color": 5814783,
-      "image": {
-        "url": "https://cdn.discordapp.com/attachments/680100312128028736/1093684660254560287/cam2-1.png"
-      }
+      "description": "Le plugin a été chargé avec succès ✅\nLa dernière version  :newspaper:\n:regional_indicator_v::one:",
+      "color": 5814783
     },
     {
       "title": "Nova-life Discord-log",
@@ -18,6 +15,5 @@
       }
     }
   ],
-  "attachments": [],
-  "flags": 4096
+  "attachments": []
 }
