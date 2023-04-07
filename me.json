@@ -3,8 +3,14 @@
   "embeds": [
     {
       "title": "Nova-life Discord-log",
-      "description": "Le plugin a été chargé avec succès ✅\nLa dernière version  :newspaper:\n:regional_indicator_v::one:",
-      "color": 5814783
+      "description": "Le plugin a été chargé avec succès ✅\nLa dernière version du plugin est V1.0.0.0",
+      "color": 5814783,
+      "fields": [
+        {
+          "name": "lien vers la derrière version",
+          "value": "https://github.com/isnoname-nova/nova-live-discordwebhook/releases"
+        }
+      ]
     },
     {
       "title": "Nova-life Discord-log",
@@ -15,5 +21,6 @@
       }
     }
   ],
-  "attachments": []
+  "attachments": [],
+  "flags": 4096
 }
