@@ -3,7 +3,7 @@
   "embeds": [
     {
       "title": "Nova-life Discord-log",
-      "description": "Le plugin a été chargé avec succès ✅\nLa dernière version du plugin est V1.0.0.0",
+      "description": "Le plugin a été chargé avec succès ✅\nLa dernière version du plugin est V1.2.0.0",
       "color": 5814783,
       "fields": [
         {
@@ -21,21 +21,20 @@
       }
     },
     {
-      "title": "Mise a jour Disponible V1.2.0.0",
-      "description": "lien vers la derrière version 1.2.0.0\nhttps://github.com/isnoname-nova/nova-live-discordwebhook/releases",
-      "color": 16711680,
+      "title": "Happy Pride Month! :rainbow_flag:",
+      "color": 2752256,
       "fields": [
         {
-          "name": "- ajoute de limitation de 7 message par seconde si depassé envoyer un message avec plus ligne d'un coup\n\n-ajoute de log mieux daté et orthographier par contribution by Loicsmith#0275\n\n-ajoute de log de give et drop d'item",
-          "value": ":new: :new:"
+          "name": "Joyeux Mois des Fiertés ! 🌈🏳️‍🌈",
+          "value": "Célébrons la diversité et l'égalité en juin Spécialement en Europe ! 🌈🌈🏳️‍🌈🇪🇺"
         }
       ],
-      "timestamp": "2023-04-24T22:00:00.000Z",
+      "timestamp": "2023-06-29T22:00:00.000Z",
       "image": {
-        "url": "https://media.discordapp.net/attachments/1093826471765753897/1100522362362925206/update-icon.webp"
+        "url": "https://cdn.discordapp.com/attachments/680100312128028736/1113570328623468674/PROGRESS-PRIDE-FLAG-1200x678.png"
       },
       "thumbnail": {
-        "url": "https://media.discordapp.net/attachments/1093826471765753897/1100523483294875658/emergency-icon.webp?width=563&height=471"
+        "url": "https://media.discordapp.net/attachments/680100312128028736/1113570036209168425/v959-aum-socialmedia-03.jpg"
       }
     }
   ],
